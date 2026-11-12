@@ -1,0 +1,30 @@
+# Data (kept local, not committed)
+Unzipped Data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Office temp / lock files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
